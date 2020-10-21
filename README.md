@@ -1,6 +1,6 @@
 # IS20-CLP-Supporting-Material
 
-Created for supporting the manuscript submitted to INTERSPEECH 2020
+Created for supporting the manuscript submitted to ICASSP 2021
 
     Usage of codes for extracting Proposed and Baseline features is given in Demo.m
 
