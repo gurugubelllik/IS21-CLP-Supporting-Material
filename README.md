@@ -1,12 +1,11 @@
-# Interspeech21-CLP-Supporting-Material
+# Interspeech22-CLP-Supporting-Material
 
-Created for supporting the manuscript submitted to Interspeech 2021
+Created for supporting the manuscript submitted to Interspeech 2022
 
     Usage of codes for extracting Proposed and Baseline features is given in Demo.m
 
     Feature extraction details are given in IS_2020_Supporting_Material.pdf
 
-    Datebase details are provided in https://researchweb.iiit.ac.in/~krishna.gurugubelli/clp_database.html
 
 Contact: Hashim Javid: hashim.javid@research.iiit.ac.in Krishna Gurugubellli: krishna.gurugubelli@research.iiit.ac.in
 
